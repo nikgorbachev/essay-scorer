@@ -1,0 +1,1 @@
+Built and deployed an end-to-end multilingual automated essay scoring platform using FastAPI, XLM-R, and React. Supports multiple ordinal regression heads (CORAL/CORN) and feature-based baselines.
