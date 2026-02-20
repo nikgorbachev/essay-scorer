@@ -1,1 +1,4 @@
 *.venv
+*.safetensors
+*.pt
+/backend/mvp_model
